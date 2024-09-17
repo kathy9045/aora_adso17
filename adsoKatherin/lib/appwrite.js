@@ -11,11 +11,11 @@ import {
 export const appwriteConfig = {
   endpoint: "https://cloud.appwrite.io/v1",
   platform: "co.edu.sena.aora_adso",
-  projectId: "66e8b7e000348943d300",
-  storageId: "66e8b972000974ff2f6c",
-  databaseId: "66e8b7e000348943d300",
-  userCollectionId: "66e8b80500294353acd4",
-  videoCollectionId: "66e8b82b002eea60a4a0",
+  projectId: "66c50df000296058e3c1",
+  storageId: "66e9dd9b001799b958ec",
+  databaseId: "66e9aad30034da19135c",
+  userCollectionId: "66e9ac9300211afe1360",
+  videoCollectionId: "66e9abdf002e18494e36",
 };
 
 const client = new Client();
